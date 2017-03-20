@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis.core:commons:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.core/commons/0.1.2-incubating/f63381ff328422bcfe5fd753e84cab2ead7a0e6c/commons-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.core/commons/0.1.2-incubating/60451ddf586a84452404b18355b6a22539c94abc/commons-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

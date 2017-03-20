@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis.progmodels:wrapper-metamodel:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.progmodels/wrapper-metamodel/0.1.2-incubating/e42f5f48d205409f30d245f6a61f6d4d0cc305ef/wrapper-metamodel-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.progmodels/wrapper-metamodel/0.1.2-incubating/16211decb0bb3679ddc4568fa7ac4a2318849f89/wrapper-metamodel-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

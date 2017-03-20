@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis.security:dflt:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.security/dflt/0.1.2-incubating/35bba1f16dd328c730110bb63fcc7b0f5b31ff5a/dflt-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.security/dflt/0.1.2-incubating/7d54de8f87bc7c9b5945372d34d4499edec455dc/dflt-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

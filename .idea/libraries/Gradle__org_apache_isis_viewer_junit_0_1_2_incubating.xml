@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis.viewer:junit:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.viewer/junit/0.1.2-incubating/25308738aa4e135d960f5a64dd5ac641b2a9e73b/junit-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.viewer/junit/0.1.2-incubating/9c188277707acb0fe28e38347e80df400153f22/junit-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

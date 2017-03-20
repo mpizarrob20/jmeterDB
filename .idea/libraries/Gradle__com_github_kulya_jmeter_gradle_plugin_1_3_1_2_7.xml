@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kulya:jmeter-gradle-plugin:1.3.1-2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kulya/jmeter-gradle-plugin/1.3.1-2.7/170d285a902d41a553df3bfa3b095d7b7af9cb1c/jmeter-gradle-plugin-1.3.1-2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kulya/jmeter-gradle-plugin/1.3.1-2.7/bc4260c9db2848ade9e929e4723019099a56bcba/jmeter-gradle-plugin-1.3.1-2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

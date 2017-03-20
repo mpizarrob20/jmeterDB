@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.jmeter:ApacheJMeter_jdbc:2.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jdbc/2.10/e00e4f878bcce67d05e3601abe8559fa961118a0/ApacheJMeter_jdbc-2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

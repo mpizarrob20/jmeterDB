@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis.runtimes.dflt.bytecode:identity:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.runtimes.dflt.bytecode/identity/0.1.2-incubating/f2fcf8ed6dd929182150ff631e0fc693c9c1e597/identity-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.runtimes.dflt.bytecode/identity/0.1.2-incubating/1c32a301c2bc3dd5b782c5d29432f4e776d88bd1/identity-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis:applib:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis/applib/0.1.2-incubating/b9bebc3434446e6ec64748fafdf1f135888c439a/applib-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis/applib/0.1.2-incubating/ee49f46b5426236c19864103dbc6bc4f7bf23b19/applib-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

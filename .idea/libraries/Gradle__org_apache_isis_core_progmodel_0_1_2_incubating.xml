@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.isis.core:progmodel:0.1.2-incubating">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.core/progmodel/0.1.2-incubating/5fc2587c5fcff520b350ef45e6c9f8e0cd144515/progmodel-0.1.2-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.isis.core/progmodel/0.1.2-incubating/e3a6816cea23895a6fbaf2ca4e0df0b5c65fc304/progmodel-0.1.2-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

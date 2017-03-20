@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.bsf:bsf-api:3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.bsf/bsf-api/3.1/10aee88821027b2d1abb037747e2bfd6091de8fa/bsf-api-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.bsf/bsf-api/3.1/7dd03e2d9a60ad026a0750158cda3ee1f13f1d95/bsf-api-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
