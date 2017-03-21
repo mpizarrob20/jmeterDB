@@ -41,7 +41,7 @@ dependencies {
 
 }
 jmeter {
-	jmTestFiles = [file("src/test/jmeter/DefaultLocation1.jmx")]
+	jmTestFiles = [file("src/test/jmeter/DefaultLocationDB1.jmx")]
 	jmPropertyFile = file("src/test/jmeter/jmeter.properties")
 	enableReports = false
 	enableExtendedReports = true
